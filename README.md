@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align='center'>Hey 👋, This is Alok Jaiswal</h1>
@@ -51,7 +51,7 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 
 ![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkalok&theme=radical&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DARKALOK&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DARKALOK&show_icons=true&theme=radical) -->
 
 
 
